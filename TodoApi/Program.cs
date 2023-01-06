@@ -1,3 +1,5 @@
+// Test commit
+
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
